@@ -154,5 +154,69 @@ I focus on learning by building small projects instead of just theory.
 ![Snake animation](https://github.com/Shreya-88/Shreya-88/blob/output/github-contribution-grid-snake.svg)
 
 ---
+# 🌐 Let’s Connect
+
+I’m always open to learning opportunities, collaborations, and internship roles in software development, data analytics, and AI.
+
+---
+
+## 📫 Contact Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/shreya-gupta-biotech  
+- 💻 GitHub: https://github.com/Shreya-88
+- 📧 Email: shreya7905gupta@gmail.com
+
+---
+
+## 💡 Fun Fact
+
+I enjoy learning new technologies by building small projects instead of just reading theory. I believe consistency matters more than speed.
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shreya-88&label=Profile%20views&color=0e75b6&style=flat)
+
+
+---
+
+## 🎯 Final Message
+
+I’m currently focused on improving my problem-solving skills, strengthening my programming fundamentals, and building real-world projects that can add value.
+
+---
+
+## ⚠️ Honest reality check (read this carefully)
+
+At this stage:
+- Your profile shows potential, not proof of expertise
+- Your learning is visible, but execution is still limited
+- Recruiters will not hire based on README design
+
+What actually matters next:
+- 2–3 strong projects with real functionality
+- Clean code on GitHub (not just practice files)
+- Consistency in commits
+- A working portfolio website
+
+If you focus only on styling GitHub, you’ll look active but not employable.
+
+---
+
+## 🧩 Final Outcome
+
+Once all parts are combined:
+- Clean structured GitHub profile
+- Professional appearance
+- Recruiter-friendly layout
+- Clear learning direction
+
+But remember: this is **presentation layer**, not your skill proof.
+
+---
+
+## Done ✔️
+
 
 
