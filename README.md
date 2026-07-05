@@ -48,10 +48,6 @@ I'm continuously working on strengthening my technical foundation while explorin
 
 ---
 
-# 🧠 Tech Stack & GitHub Insights
-
----
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
