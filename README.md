@@ -67,7 +67,7 @@ I'm continuously working on strengthening my technical foundation while explorin
 
 ## 📊 GitHub Stats
 
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-88&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-88&show_icons=true)
 
 ---
 
