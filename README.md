@@ -91,4 +91,68 @@ I'm continuously working on strengthening my technical foundation while explorin
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreya-88&theme=github-light)
 
+---  
+# 🚀 Projects, Certifications & Learning Journey
+
 ---
+
+## 💼 Featured Projects
+
+### 📌 Portfolio Website (In Progress)
+A personal portfolio website to showcase my skills, projects, and journey as a developer.
+
+**Tech Used:** HTML, CSS, JavaScript  
+**Status:** Work in progress
+
+---
+
+### 📌 Java Practice Programs
+A collection of beginner-friendly Java programs focused on logic building and DSA basics.
+
+**Tech Used:** Java  
+**Status:** Ongoing learning
+
+---
+
+### 📌 GitHub Profile Setup
+Customized GitHub profile README to present my skills and learning journey.
+
+**Tech Used:** Markdown, GitHub  
+**Status:** Completed
+
+---
+
+## 🎓 Certifications
+
+- IBM SkillsBuild AI & Cloud Internship Certificate  
+- Career Essentials in Generative AI by Microsoft & LinkedIn (2024)  
+- Nestlé E-Learning 2026: Resilience  
+- Deloitte Data Analytics Job Simulation (Forage)  
+- Microsoft Power BI Certification (2025)  
+- Strategic Management Course (2025)  
+- Explore Programs (Infosys)
+
+---
+
+## 📚 Learning Journey
+
+I started my journey in biotechnology and gradually developed an interest in programming and technology.
+
+Over time, I began learning:
+- Java for problem solving
+- Data Structures & Algorithms for logical thinking
+- Web development for building interfaces
+- AI and data analytics for future career opportunities
+
+I focus on learning by building small projects instead of just theory.
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<!-- This will show your GitHub contributions snake -->
+![Snake animation](https://github.com/Shreya-88/Shreya-88/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
