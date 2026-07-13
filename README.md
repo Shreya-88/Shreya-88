@@ -1,218 +1,78 @@
-# Hi 👋, I'm Shreya Gupta  
-B.Tech Biotechnology Student | Java & DSA Learner | Web Development Enthusiast | AI Explorer  
+# Hi 👋, I'm Shreya Gupta
 
----
+**B.Tech Biotechnology Student | Aspiring Data Analyst | Excel, SQL & Power BI Learner**
+
+I am building practical projects in data analytics while strengthening my Python, web development, and problem-solving skills.
 
 ## 👩‍💻 About Me
-🎓 B.Tech in Biotechnology  
-🌱 Currently learning Java, Data Structures & Algorithms, HTML, CSS, JavaScript  
-💡 Interested in Artificial Intelligence, Biotechnology, Data Analytics and Web Development  
-📚 Building projects to improve my practical skills  
-🎯 Goal: Secure a Software Development Internship and improve as a developer  
 
----
+- 🎓 Pursuing B.Tech in Biotechnology at Noida Institute of Engineering and Technology
+- 📊 Interested in data analytics, business intelligence, biotechnology, and AI
+- 🌱 Currently learning Excel, SQL, Power BI, Python, and data visualisation
+- 🧩 Learning by building projects and documenting my work
+- 🎯 Seeking entry-level Data Analyst internships and opportunities
 
-## 💬 Ask me about
-Java, HTML, CSS, Git & GitHub, Basic JavaScript, Biotechnology  
+## 🛠 Skills and Tools
 
----
+### Data Analytics
 
-## 📫 Reach me at
-🔗 LinkedIn: https://www.linkedin.com/in/shreya-gupta-biotech  
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Shreya-88/indian-ecommerce-sales-analysis)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Shreya-88/indian-ecommerce-sales-analysis/blob/main/analysis_queries.sql)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Shreya-88/indian-ecommerce-sales-analysis/blob/main/POWER_BI_BUILD_GUIDE.md)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Shreya-88/CODE-SOFT)
 
----
+### Web Development
 
-## 🌱 Currently Learning
-- Java Programming  
-- Data Structures & Algorithms  
-- Frontend Web Development  
-- Git & GitHub  
-- Artificial Intelligence  
-- Data Analytics  
-- Machine Learning Fundamentals  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Shreya-88/Html-)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Shreya-88?tab=repositories)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Shreya-88?tab=repositories)
 
----
+### Development Tools
 
-## 🛠 Languages & Tools
-Java | HTML | CSS | JavaScript | Git | GitHub | VS Code  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya-88)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
----
+## 📌 Featured Projects
 
-## 📖 A Little About My Journey
-I began my journey as a Biotechnology student with a curiosity for solving problems through technology.
+### [Indian E-commerce Sales Analysis](https://github.com/Shreya-88/indian-ecommerce-sales-analysis)
 
-Alongside my academic coursework, I started learning programming, web development, and artificial intelligence. Every project I build teaches me something new, and every challenge helps me improve my problem-solving skills.
+Analysed 2,400 simulated Indian e-commerce orders to study sales, profit, categories, regions, delivery performance, and returns.
 
-I'm continuously working on strengthening my technical foundation while exploring opportunities where I can apply my knowledge in real-world projects.
-# 🧠 Tech Stack & GitHub Insights
+- **Tools:** Excel, SQL, Power BI
+- **Work completed:** Data review, KPI dashboard, SQL business queries, and Power BI dashboard plan
+- **Repository:** [View the complete project](https://github.com/Shreya-88/indian-ecommerce-sales-analysis)
 
----
+### [Python Practice Projects — CodeSoft](https://github.com/Shreya-88/CODE-SOFT)
 
-## 🛠 Tech Stack
+Beginner Python tasks created to strengthen programming logic and practical problem-solving.
 
-### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- **Tool:** Python
+- **Repository:** [View the Python projects](https://github.com/Shreya-88/CODE-SOFT)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### Portfolio Website
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-88&show_icons=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shreya-88&theme=default)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shreya-88&theme=flat&margin-w=10)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreya-88&theme=github-light)
-
----  
-# 🚀 Projects, Certifications & Learning Journey
-
----
-
-## 💼 Featured Projects
-
-### 📌 Portfolio Website (In Progress)
-A personal portfolio website to showcase my skills, projects, and journey as a developer.
-
-**Tech Used:** HTML, CSS, JavaScript  
-**Status:** Work in progress
-
----
-
-### 📌 Java Practice Programs
-A collection of beginner-friendly Java programs focused on logic building and DSA basics.
-
-**Tech Used:** Java  
-**Status:** Ongoing learning
-
----
-
-### 📌 GitHub Profile Setup
-Customized GitHub profile README to present my skills and learning journey.
-
-**Tech Used:** Markdown, GitHub  
-**Status:** Completed
-
----
+A personal portfolio website is currently in progress. The repository and live website link will be added after the project is complete.
 
 ## 🎓 Certifications
 
-- IBM SkillsBuild AI & Cloud Internship Certificate  
-- Career Essentials in Generative AI by Microsoft & LinkedIn (2024)  
-- Nestlé E-Learning 2026: Resilience  
-- Deloitte Data Analytics Job Simulation (Forage)  
-- Microsoft Power BI Certification (2025)  
-- Strategic Management Course (2025)  
-- Explore Programs (Infosys)
+- IBM SkillsBuild Virtual Internship in AI & Cloud — Edunet Foundation and AICTE
+- Career Essentials in Generative AI — Microsoft and LinkedIn (2024)
+- Deloitte Data Analytics Job Simulation — Forage (2026)
+- Microsoft Power BI — Infosys Springboard (2025)
+- Strategic Management — Infosys Springboard (2025)
+
+## 📊 GitHub Statistics
+
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya-88&show_icons=true&theme=default)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-88&layout=compact)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-biotech)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya-88)
 
 ---
 
-## 📚 Learning Journey
-
-I started my journey in biotechnology and gradually developed an interest in programming and technology.
-
-Over time, I began learning:
-- Java for problem solving
-- Data Structures & Algorithms for logical thinking
-- Web development for building interfaces
-- AI and data analytics for future career opportunities
-
-I focus on learning by building small projects instead of just theory.
-
----
-
-## 🐍 Contribution Snake Animation
-
-<!-- This will show your GitHub contributions snake -->
-![Snake animation](https://github.com/Shreya-88/Shreya-88/blob/output/github-contribution-grid-snake.svg)
-
----
-# 🌐 Let’s Connect
-
-I’m always open to learning opportunities, collaborations, and internship roles in software development, data analytics, and AI.
-
----
-
-## 📫 Contact Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/shreya-gupta-biotech  
-- 💻 GitHub: https://github.com/Shreya-88
-- 📧 Email: shreya7905gupta@gmail.com
-
----
-
-## 💡 Fun Fact
-
-I enjoy learning new technologies by building small projects instead of just reading theory. I believe consistency matters more than speed.
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shreya-88&label=Profile%20views&color=0e75b6&style=flat)
-
-
----
-
-## 🎯 Final Message
-
-I’m currently focused on improving my problem-solving skills, strengthening my programming fundamentals, and building real-world projects that can add value.
-
----
-
-## ⚠️ Honest reality check (read this carefully)
-
-At this stage:
-- Your profile shows potential, not proof of expertise
-- Your learning is visible, but execution is still limited
-- Recruiters will not hire based on README design
-
-What actually matters next:
-- 2–3 strong projects with real functionality
-- Clean code on GitHub (not just practice files)
-- Consistency in commits
-- A working portfolio website
-
-If you focus only on styling GitHub, you’ll look active but not employable.
-
----
-
-## 🧩 Final Outcome
-
-Once all parts are combined:
-- Clean structured GitHub profile
-- Professional appearance
-- Recruiter-friendly layout
-- Clear learning direction
-
-But remember: this is **presentation layer**, not your skill proof.
-
----
-
-## Done ✔️
-
-
-
+*I am at the beginning of my analytics journey and am committed to learning through consistent, practical work.*
