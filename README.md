@@ -2,14 +2,14 @@
 
 **B.Tech Biotechnology Student | Aspiring Data Analyst | Excel, SQL & Power BI Learner**
 
-I am building practical projects in data analytics while strengthening my Python, web development, and problem-solving skills.
+I am building practical projects in data analytics while strengthening my Python, data visualisation, and problem-solving skills.
 
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing B.Tech in Biotechnology at Noida Institute of Engineering and Technology
 - 📊 Interested in data analytics, business intelligence, biotechnology, and AI
 - 🌱 Currently learning Excel, SQL, Power BI, Python, and data visualisation
-- 🧩 Learning by building projects and documenting my work
+- 🧩 Learning by building guided projects, validating results, and documenting my work
 - 🎯 Seeking entry-level Data Analyst internships and opportunities
 
 ## 🛠 Skills and Tools
@@ -21,17 +21,16 @@ I am building practical projects in data analytics while strengthening my Python
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Shreya-88/indian-ecommerce-sales-analysis/blob/main/POWER_BI_BUILD_GUIDE.md)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Shreya-88/CODE-SOFT)
 
-### Web Development
+### Web Fundamentals
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Shreya-88/Html-)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Shreya-88?tab=repositories)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/Shreya-88?tab=repositories)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Shreya-88/Html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Shreya-88/Html)
 
 ### Development Tools
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya-88)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ## 📌 Featured Projects
 
@@ -40,19 +39,23 @@ I am building practical projects in data analytics while strengthening my Python
 Analysed 2,400 simulated Indian e-commerce orders to study sales, profit, categories, regions, delivery performance, and returns.
 
 - **Tools:** Excel, SQL, Power BI
-- **Work completed:** Data review, KPI dashboard, SQL business queries, and Power BI dashboard plan
-- **Repository:** [View the complete project](https://github.com/Shreya-88/indian-ecommerce-sales-analysis)
+- **Work:** Data review, KPI dashboard, SQL business queries, and Power BI dashboard plan
+- **Repository:** [View the complete guided project](https://github.com/Shreya-88/indian-ecommerce-sales-analysis)
 
-### [Python Practice Projects — CodeSoft](https://github.com/Shreya-88/CODE-SOFT)
+### [Python GUI Practice Projects](https://github.com/Shreya-88/CODE-SOFT)
 
-Beginner Python tasks created to strengthen programming logic and practical problem-solving.
+Created beginner desktop applications in Jupyter Notebook to practise Python, Tkinter, and basic SQLite operations.
 
-- **Tool:** Python
+- **Projects:** Scientific Calculator, Password Generator, and To-Do List
 - **Repository:** [View the Python projects](https://github.com/Shreya-88/CODE-SOFT)
 
-### Portfolio Website
+### [HTML & CSS Learning Projects](https://github.com/Shreya-88/Html)
 
-A personal portfolio website is currently in progress. The repository and live website link will be added after the project is complete.
+Completed guided HTML and CSS exercises and deployed an educational Myntra-style landing-page interface using GitHub Pages.
+
+- **Tools:** HTML, CSS, Flexbox, and GitHub Pages
+- **Live demo:** [Open the website](https://shreya-88.github.io/Html/)
+- **Repository:** [View the source and learning exercises](https://github.com/Shreya-88/Html)
 
 ## 🎓 Certifications
 
@@ -71,7 +74,6 @@ A personal portfolio website is currently in progress. The repository and live w
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-biotech)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shreya-88)
 
 ---
